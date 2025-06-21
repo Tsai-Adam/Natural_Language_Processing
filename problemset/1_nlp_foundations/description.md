@@ -15,5 +15,8 @@ For more information on the dataset, refer to:
 - **Tools:**  
   Using spaCy for named entity recognition (NER) is highly recommended.
 
----
+## Additional Resources
 
+- [Notion Assignment Page](https://simone-santoni.notion.site/Count-company-mentions-0c20d05dd3b848b7a0e8c163bd1f14e0)
+
+---
